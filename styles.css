@@ -1,0 +1,132 @@
+
+.p1 {
+
+    background-color: #ff7300;
+    border: 8px solid #ff7300;
+    text-align:center;
+    color: #fff;
+    border-radius: 5px;
+
+}
+.nav {
+display: flex;
+justify-self: center;
+
+}
+.nav1 {
+display: flex;
+justify-self: center;
+background-color: #ff7300;
+border: 5px solid #ff7300;
+border-radius: 5px;
+width: 40px;
+height: 40px;
+
+}
+
+.developer  a{
+text-decoration: none;
+color: #000000;
+}
+
+.developer {
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+width: 70%;
+
+}
+
+.frock {
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
+.dollar{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+width: 40%;
+
+
+}
+.Sale {
+text-decoration: none;
+color: #000000;
+}
+
+.offers {
+
+    background-color: #ff7300;
+    border: 8px solid #ff7300;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.yandex {
+    align-items: center;
+
+}                                                      
+
+
+
+.we {
+
+    width:170px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+.our{
+    display: none;
+  }
+  .we{
+    width:170px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  }
+  .we a{
+      text-decoration: none;
+      color: black;
+  }
+  .we button{
+      background-color: orange;
+      border:1px solid orange;
+      border-radius: 10px;
+      padding: 12px;
+      color: white;
+  }
+  .form_p{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    
+  }
+  .form_p h1{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+  }
+  .form_p p{
+    color: rgba(129, 129, 129, 0.978);
+    font-family:'Times New Roman', Times, serif ;
+    width: 60%;
+  }
+  .ion{
+    width: 30px;
+    height: 30px;
+  } 
